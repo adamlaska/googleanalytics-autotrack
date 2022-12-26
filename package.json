@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.5",
+    "babel-loader": "^8.2.4",
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
@@ -72,6 +72,6 @@
     "wdio-mocha-framework": "^0.6.2",
     "wdio-sauce-service": "^0.4.10",
     "webdriverio": "^4.13.2",
-    "webpack": "^4.16.5"
+    "webpack": "^5.0.0"
   }
 }
