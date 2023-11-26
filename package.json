@@ -59,9 +59,9 @@
     "gulp": "^4.0.0",
     "gulp-eslint": "^5.0.0",
     "gulp-util": "^3.0.8",
-    "gulp-webdriver": "^2.0.3",
+    "gulp-webdriver": "^3.0.0",
     "intersection-observer": "^0.5.0",
-    "ngrok": "^3.0.1",
+    "ngrok": "^4.0.0",
     "rollup-plugin-babel": "^3.0.7",
     "run-sequence": "^2.2.1",
     "sauce-connect-launcher": "^1.2.4",
@@ -71,7 +71,7 @@
     "uuid": "^3.3.2",
     "wdio-mocha-framework": "^0.6.2",
     "wdio-sauce-service": "^0.4.10",
-    "webdriverio": "^4.13.2",
-    "webpack": "^4.16.5"
+    "webdriverio": "^5.0.0",
+    "webpack": "^5.0.0"
   }
 }
