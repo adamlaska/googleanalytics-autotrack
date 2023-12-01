@@ -36,7 +36,7 @@
     "chalk": "^2.4.1",
     "dom-utils": "^0.9.0",
     "fs-extra": "^7.0.0",
-    "glob": "^7.1.2",
+    "glob": "^9.0.0",
     "google-closure-compiler-js": "^20180610.0.0",
     "gzip-size": "^5.0.0",
     "idlize": "^0.1.0",
@@ -52,12 +52,12 @@
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
     "easy-sauce": "^0.4.2",
-    "eslint": "^5.4.0",
+    "eslint": "^6.0.0",
     "eslint-config-google": "^0.9.1",
     "esm": "^3.0.77",
     "express": "^4.16.3",
     "gulp": "^4.0.0",
-    "gulp-eslint": "^5.0.0",
+    "gulp-eslint": "^6.0.0",
     "gulp-util": "^3.0.8",
     "gulp-webdriver": "^2.0.3",
     "intersection-observer": "^0.5.0",
@@ -71,7 +71,7 @@
     "uuid": "^3.3.2",
     "wdio-mocha-framework": "^0.6.2",
     "wdio-sauce-service": "^0.4.10",
-    "webdriverio": "^4.13.2",
-    "webpack": "^4.16.5"
+    "webdriverio": "^5.0.0",
+    "webpack": "^5.1.1"
   }
 }
